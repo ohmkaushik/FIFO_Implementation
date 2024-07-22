@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digital electronics/asyn_fifo/asyn_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module asyn_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digital electronics/asyn_fifo/asyn_fifo_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module asyn_fifo_tb

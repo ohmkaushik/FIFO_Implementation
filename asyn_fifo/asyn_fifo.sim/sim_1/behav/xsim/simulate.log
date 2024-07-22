@@ -1,0 +1,10 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Time: 0 | wr_data: 00 | rd_data: xx | full: 0 | empty: 1
+Time: 10000 | wr_data: aa | rd_data: xx | full: 0 | empty: 1
+Time: 15000 | wr_data: aa | rd_data: aa | full: 0 | empty: 1
+Time: 20000 | wr_data: bb | rd_data: aa | full: 0 | empty: 1
+Time: 30000 | wr_data: cc | rd_data: aa | full: 0 | empty: 1
+Time: 35000 | wr_data: cc | rd_data: aa | full: 0 | empty: 0
+Time: 77000 | wr_data: cc | rd_data: bb | full: 0 | empty: 0
+$finish called at time : 390 ns : File "D:/digital electronics/asyn_fifo/asyn_fifo_tb.v" Line 52
